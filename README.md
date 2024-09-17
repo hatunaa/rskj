@@ -3,7 +3,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rskj&metric=alert_status)](https://sonarcloud.io/dashboard?id=rskj)
 [![CodeQL](https://github.com/rsksmart/rskj/workflows/CodeQL/badge.svg)](https://github.com/rsksmart/rskj/actions?query=workflow%3ACodeQL)
 
-edit by tuandv
+edit by tuandv5
 
 # About
 RskJ is a Java implementation of the Rootstock node. For more information about Rootstock, visit [rootstock.io](https://rootstock.io/). The [Rootstock white paper](https://rootstock.io/rsk-white-paper-updated.pdf) provides a complete conceptual overview of the platform.
